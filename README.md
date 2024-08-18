@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="spring-boot-chatgpt" title="spring-boot-chatgpt" src=".github/logo.png" />
+  <img alt="spring-boot-chatgpt-notes" title="spring-boot-chatgpt-notes" src=".github/logo.png" />
 </h1>
 
 <p align="center">
