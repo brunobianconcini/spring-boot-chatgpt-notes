@@ -1,10 +1,9 @@
 <h1 align="center">
-  <img alt="spring-boot-chatgpt" title="spring-boot-chatgpt" src=".github/logo.png" />
+  <img alt="spring-boot-chatgpt-notes" title="spring-boot-chatgpt-notes" src=".github/logo.png" />
 </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-solução">Roteiro</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
@@ -23,13 +22,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto é uma API Rest de geração de notas de estudo utilizando Spring Boot e ChatGPT.
 
-## 🗒️ Roteiro
-
-- [ ] ChatGPT e OpenAI
-- [ ] Criação da API
-- [ ] Integração com OpenAI
-- [ ] Resultados
-
 ## 🚀 Como executar
 
 - Clone o repositório
@@ -39,10 +31,7 @@ Esse projeto é uma API Rest de geração de notas de estudo utilizando Spring B
 Agora você pode testar em `http://localhost:8080/study-notes`:
 ```
 $ curl http://localhost:8080/study-notes -H "Content-Type: application/json" -d "Spring Data JPA"
-```
-## ▶ Resultado
 
-```
 1. Introdução ao Spring Data JPA
 2. Configuração do Spring Data JPA
 3. Entidades e Relacionamentos
